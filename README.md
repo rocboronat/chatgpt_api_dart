@@ -22,12 +22,12 @@ This package is hosted in [Pub Dev Library](https://pub.dev/packages/chatgpt_cli
 ### Flutter App
 
 ```dart
-flutter pub add chagpt_client
+flutter pub add chatgpt_client
 ```
 
 ### Dart App
 ```dart
-dart pub add chagpt_client
+dart pub add chatgpt_client
 ```
 
 ## Usage
